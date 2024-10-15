@@ -1,0 +1,35 @@
+.card {
+  width: 200px;
+  height: 230px;
+
+  border: 1px, solid, black;
+
+  /* color: white; */
+  color: white;
+
+  font-size: 60px;
+}
+
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
+  display: flex;
+
+  justify-content: start;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.black {
+  color: black;
+}
